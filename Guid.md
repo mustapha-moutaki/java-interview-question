@@ -219,10 +219,12 @@ finalize() is a method called by the garbage collector before destroying an obje
 ```text
 this keyword used to refer to the current object.
 ```
+
 23. What is super keyword?
 ```text
 super keyword used to refer to the parent class object.
 ```
+
 24. What is encapsulation?
 ```text
 encapsulation is a mechanism of wrapping data and the methods that operate on the data in a single unit called a class. 
