@@ -214,6 +214,7 @@ finally is a block that always executes whether an exception happens or not. It 
 finalize() is a method called by the garbage collector before destroying an object. It was used for cleanup, but it is deprecated and not recommended anymore.
 
 ```
+
 22. What is this keyword?
 ```text
 this keyword used to refer to the current object.
