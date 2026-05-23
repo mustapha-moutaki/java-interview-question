@@ -1792,9 +1792,3 @@ Master these topics:
 * REST APIs
 * OOP
 * System Design Basics
-
-Do not try to solve 500 random problems.
-
-Master 20–30 important patterns deeply.
-
-Communication + clean thinking + structured problem solving is what passes Karat interviews.
