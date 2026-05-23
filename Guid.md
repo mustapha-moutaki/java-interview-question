@@ -188,6 +188,7 @@ A final variable cannot be reassigned
 A final method cannot be overridden
 A final class cannot be inherited
 ```
+
 19. What is finally block?
 ```text
 finally block it's a block that runs in every cases even the exception is thrown or not
