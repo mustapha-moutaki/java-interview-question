@@ -195,6 +195,7 @@ finally block it's a block that runs in every cases even the exception is thrown
 we use it to close the resources like db connection.
 it used after ttry and catch blocks
 ```
+
 20. What is finalize()?
 ```text
 finalize it's a method that is called by the garbage collector before destroying the object, it was used for cleanup, but now it's deprecated and not recommended anymore.
