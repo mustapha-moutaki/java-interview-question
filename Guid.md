@@ -178,6 +178,8 @@ new Car();
 // then
 counter will be 3 not 1 1 1 it will be shared between all objects
 ```
+
+
 18. What is final keyword?
 ```text
 The final keyword is used to restrict modification.
