@@ -229,10 +229,12 @@ super keyword used to refer to the parent class object.
 ```text
 encapsulation is a mechanism of wrapping data and the methods that operate on the data in a single unit called a class. 
 ```
+
 25. What is inheritance?
 ```text
 inheritance is a mechanism of creating a new class from an existing class, which is called parent class or super class
 ```
+
 26. What is polymorphism?
 ```text
 polymorphism is a oop concept that means when the same method can have different behavior
