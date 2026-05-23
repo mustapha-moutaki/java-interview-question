@@ -200,6 +200,7 @@ it used after ttry and catch blocks
 ```text
 finalize it's a method that is called by the garbage collector before destroying the object, it was used for cleanup, but now it's deprecated and not recommended anymore.
 ```
+
 21. Difference between final, finally, and finalize?
 ```text
 final is a keyword used to restrict modification.
