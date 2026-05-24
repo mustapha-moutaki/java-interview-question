@@ -45,8 +45,8 @@ it's an object that is created and managed by spring container
 ```text
 Singleton Bean is the default scope in spring and it's create only one object in the container at the start up of the app
 ```
- A- prototype bean:  is used when your want a new object every time you inject it:
- ``` java
+
+```java
  @Scope("prototype")
 @Service
 class UserService {}
