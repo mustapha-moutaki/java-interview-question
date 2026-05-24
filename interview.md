@@ -146,7 +146,7 @@ public void transferMoney() {
 }
 ```
 
-# #13- 🔥 save() vs flush()
+# #13- save() vs flush()
 save() stores data inside the persistence context (memory),
 while flush() synchronizes the persistence context with the database immediately.
 
