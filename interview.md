@@ -168,7 +168,7 @@ while equals() compares object content or logical equality.
 HashMap uses hashCode() to determine the bucket and equals() to identify the correct object inside that bucket.
 If two objects are equal, they must return the same hashCode().
 
-# #18- 🔥 Why String is good HashMap key?
+# #18- Why String is good HashMap key?
 String is immutable, so its hashCode never changes after creation, making retrieval from HashMap reliable.
 Why StringBuilder is bad?
 StringBuilder is mutable, so modifying it may change its hashCode and make the key unreachable in the HashMap.
