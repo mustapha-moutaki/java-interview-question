@@ -150,7 +150,7 @@ public void transferMoney() {
 save() stores data inside the persistence context (memory),
 while flush() synchronizes the persistence context with the database immediately.
 
-# #14- 🔥 JPA vs Hibernate
+# #14- JPA vs Hibernate
 JPA is a specification for ORM in Java, while Hibernate is the most common implementation of JPA.
 
 # #15- 🔥 Lazy vs Eager Loading
