@@ -164,7 +164,7 @@ OneToMany → LAZY
 == compares primitive values or object references,
 while equals() compares object content or logical equality.
 
-# #17- 🔥 Why override equals() and hashCode() together?
+# #17- Why override equals() and hashCode() together?
 HashMap uses hashCode() to determine the bucket and equals() to identify the correct object inside that bucket.
 If two objects are equal, they must return the same hashCode().
 
