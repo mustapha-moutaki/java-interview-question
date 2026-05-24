@@ -51,19 +51,18 @@ Singleton Bean is the default scope in spring and it's create only one object in
 @Service
 class UserService {}
 ```
-6- why spring use singleton scope?
+A- why spring use singleton scope?
 ```text
  to save memory
  better performance 
 ```
 
-
--  why spring use AOP ?
+B-  why spring use AOP ?
 ```text
 AOP is used for cross-cutting concerns such as logging, security, transaction management, etc. 
 ```
 
-# # 6- 🔥 What is Dependency Injection?
+# # 6- What is Dependency Injection?
 
 Dependency Injection is a design pattern used by Spring where the Spring container creates objects (beans) and injects their dependencies automatically instead of creating them manually using new keyword.
 Benefits:
