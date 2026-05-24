@@ -100,7 +100,7 @@ class UserService {}
 class UserRepository {}
 ```
 
-# #9- 🔥 @Component vs @Bean
+# #9- @Component vs @Bean
 @Component is used for automatic bean detection using component scanning, while @Bean is used for manual bean creation inside configuration classes.
 @Component Example:
 ```java
