@@ -14,6 +14,7 @@ spring boot is used for rapid application development moore than spring because:
  - easy for development
  - no xml configuration
 ```
+
 2- what is DI (Dependency Injection) ?
 ```text
 it's a spring container that is responsible for creating objects and managing them life cycle and injecting them into components instead of creating them ourself
