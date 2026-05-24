@@ -70,7 +70,7 @@ Loose coupling
 Better testing
 Cleaner architecture
 
-# # 7- 🔥 Why Constructor Injection is preferred?
+# # 7- Why Constructor Injection is preferred?
 Constructor injection is preferred because it makes dependencies mandatory, improves testability, supports immutability using final fields, and helps detect errors at compile time.
 Example:
 ```java
