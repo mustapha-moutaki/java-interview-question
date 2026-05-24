@@ -85,7 +85,7 @@ class UserService {
 }
 ```
 
-# #8- 🔥 @Component vs @Service vs @Repository
+# #8- @Component vs @Service vs @Repository
 All of them create Spring beans and are based on @Component annotation.
 Differences:
 @Component → generic bean
