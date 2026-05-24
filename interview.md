@@ -338,11 +338,6 @@ Valid parentheses is used to check if the parentheses are balanced
 
 
 
-
-
-
-
-
 ---
 
 # 📅 Today Study Plan (Starting 11:00 AM)
