@@ -28,9 +28,8 @@ it's a spring container that is responsible for creating objects and managing th
   Service service;
   or @ReuiqredAllArgsConstructor 
   or @NoArgConstructor + @Autowired on the constructor
-  
-
 ```
+
 3- what is Bean ?
 ```text
 it's an object that is created and managed by spring container
