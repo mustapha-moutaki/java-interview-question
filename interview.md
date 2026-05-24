@@ -40,7 +40,8 @@ it's an object that is created and managed by spring container
 @RequestMapping is a general annotation that can be used for both HTTP methods and URL mapping
 @GetMapping is a specific annotation that is used for GET HTTP method only
 ```
-5- 🔥 Singleton vs Prototype Bean?
+
+5- Singleton vs Prototype Bean?
 ```text
 Singleton Bean is the default scope in spring and it's create only one object in the container at the start up of the app
 ```
