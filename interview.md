@@ -160,7 +160,7 @@ Default:
 ManyToOne → EAGER
 OneToMany → LAZY
 
-# #16- 🔥 equals() vs ==
+# #16- equals() vs ==
 == compares primitive values or object references,
 while equals() compares object content or logical equality.
 
