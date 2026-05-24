@@ -130,10 +130,10 @@ Example:
 class UserService {}
 ```
 
-# #11- 🔥 Why Spring uses Singleton by default?
+# #11- Why Spring uses Singleton by default?
 Spring uses singleton scope by default to reduce memory usage, improve performance, and avoid creating unnecessary objects repeatedly.
 
-# #12- 🔥 What does @Transactional do?
+# #12- What does @Transactional do?
 @Transactional manages database transactions in Spring.
 If all operations succeed → commit.
 If an exception happens → rollback.
