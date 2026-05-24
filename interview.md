@@ -119,7 +119,7 @@ class AppConfig {
 }
 ```
 
-# #10- 🔥 Singleton vs Prototype Bean?
+# #10- Singleton vs Prototype Bean?
 Singleton Bean is the default scope in Spring and Spring creates only one object shared across the application lifecycle.
 Prototype Bean:
 Prototype scope creates a new object every time the bean is requested or injected.
