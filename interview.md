@@ -153,7 +153,7 @@ while flush() synchronizes the persistence context with the database immediately
 # #14- JPA vs Hibernate
 JPA is a specification for ORM in Java, while Hibernate is the most common implementation of JPA.
 
-# #15- 🔥 Lazy vs Eager Loading
+# #15- Lazy vs Eager Loading
 Lazy loading loads data only when needed,
 while eager loading loads related data immediately.
 Default:
