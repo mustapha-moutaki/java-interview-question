@@ -103,7 +103,7 @@ Map: it's a collection that stores key-value pairs
 TreeSet: it's a collection that stores items in sorted order
 
 
-# 🧠 Java Coding Patterns Cheat Sheet
+# Java Coding Patterns Cheat Sheet
 
 ---
 
