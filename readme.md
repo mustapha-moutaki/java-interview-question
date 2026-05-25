@@ -122,7 +122,7 @@ It is based on using two pointers (`left` and `right`) to traverse an array or s
 
 ---
 
-## 💡 Reverse Example
+## Reverse Example
 ```text
 [1,2,3,4] → [4,3,2,1]
 ``` 
