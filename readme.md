@@ -107,7 +107,7 @@ TreeSet: it's a collection that stores items in sorted order
 
 ---
 
-# 🔥 Two Pointers Pattern
+# Two Pointers Pattern
 
 ## 📌 Use case
 It is based on using two pointers (`left` and `right`) to traverse an array or string from both ends or in a single pass to reduce complexity from `O(n²)` to `O(n)`.
