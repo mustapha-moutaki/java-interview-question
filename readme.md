@@ -232,9 +232,9 @@ Stack pattern is used for problems that require LIFO (Last-In, First-Out) behavi
 
 ---
 
-# 💡 Valid Parentheses Example
+# Valid Parentheses Example
 
-## 🎯 Problem
+## Problem
 Given a string containing just the characters `( ) { } [ ]`, determine if the input string is valid.
 
 ### Example 1:
