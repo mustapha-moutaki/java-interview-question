@@ -55,12 +55,40 @@ load factor : the default load factor is 0.75
 size: number of elements in the hashMap
 and resizing happen when size > loadFactor * capacity
 
+
 ### concurrent hashMap (thread safe):
 before java 8: it's use segment 
 after java 8: it's use CAS (Compare and Swap) + Lock Striping
 CAS: 
 1 - thread A chekc the value if it's the same as before so it replace it if its diffrent so it reject 
 2 - thread B chekc the value if it's the same before replace it if it's no like in this case reject and retry
+
+
+# hashmap vs treemap
+
+| Feature             | HashMap                                          | TreeMap                              |
+| ------------------- | ------------------------------------------------ | ------------------------------------ |
+| ** Underlying DS** | Hash table (buckets + linked list/tree)           | Balanced Binary Search Tree          |
+| ** Ordering**        | No guaranteed order                              | Sorted order (natural or comparator) |
+| **Performance**     | Average O(1) for put/get                        | O(log n) for put/get                 |
+| **Null Keys**       | Allows one null key                              | Does NOT allow null keys             |
+| **Thread Safety**   | Not thread-safe                                  | Not thread-safe                      |
+| **Best For**        | Fast lookups when order doesn’t matter           | Sorted data, range queries           |
+
+
+# hashmap vs linkedhashmap
+
+| Feature             | HashMap                                          | LinkedHashMap                         |
+| ------------------- | ------------------------------------------------ | ------------------------------------- |
+| ** Underlying DS** | Hash table                                       | Hash table + Doubly Linked List       |
+| **Ordering**        | No guaranteed order                              | Insertion order preserved             |
+| **Performance**     | Average O(1)                                     | Average O(1)                          |
+| **Null Keys**       | Allows one null key                              | Allows one null key                   |
+| **Thread Safety**   | Not thread-safe                                  | Not thread-safe                       |
+| **Memory Overhead** | Lower                                            | Slightly higher (due to next/prev)    |
+| **Use Case**        | Unordered key-value storage                      | Ordered caches, history, FIFO         |
+
+
 
 # collections in java:
 - List
