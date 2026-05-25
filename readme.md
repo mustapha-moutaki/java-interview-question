@@ -140,7 +140,7 @@ while(left < right) {
 }
 ```
 
-## 💡Two sum example:
+## Two sum example:
 ``` java
 [1,2,3,4]
 target = 7
