@@ -30,6 +30,8 @@ but how ?
 
 Note: the hashMap is not thread-safe we can write in it at the same time from diffrent threads it will cause a collision it will make a mess 
 
+
+
 # ConcurrentHashMap (hashMap multithreading):
 
 ### conclusion 
@@ -44,6 +46,7 @@ because if we use just equals that gonna code O(n) because we have to check ever
 so summary:
 hashCode → reduces search space (find bucket)
 equals   → finds exact key inside bucket
+
 
 # important
 ### resizing
