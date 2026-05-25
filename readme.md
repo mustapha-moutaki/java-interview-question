@@ -220,7 +220,7 @@ Stack pattern is used for problems that require LIFO (Last-In, First-Out) behavi
 5. **Backtracking**: DFS traversal where you need to backtrack (e.g., permutations, combinations).
 6. **Window Problems**: Sliding window maximum/minimum using a monotonic stack.
 
-## 🎯 All Use Cases
+## All Use Cases
 - Valid Parentheses → `( { [ ] } )`
 - Next Greater Element
 - Trapping Rain Water
