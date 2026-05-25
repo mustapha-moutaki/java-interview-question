@@ -1,6 +1,6 @@
 # hashMap
 
-- " hashMap is a collection that stores key-value pairs."
+- " HashMap is a collection that stores key-value pairs."
 - "the hashMap works liek this 
 first it's take a key and value but the key mmust be unique abd to store it here where iis hashCode comes it's take the key and then provide hashChode and he devide it by the number of "buckets" or "slots" and it give you the index
 like this [1,2,3,4] 
