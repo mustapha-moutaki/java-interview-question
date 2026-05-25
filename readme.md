@@ -21,7 +21,7 @@ but how ?
 - Before java 8: it's use a linked list -->but that's make it slow
 - After java 8: it's use tree
 
-
+# hash
 ### kepp in mind: -Important
 - why the String key is good:
 "it's because is  immutable so it's unique "
