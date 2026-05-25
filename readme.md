@@ -160,7 +160,7 @@ for(int i = 0; i < nums.length; i++) {
 }
 ```
 
-## 💡 Remove Duplicates Example
+## Remove Duplicates Example
 ``` text
 Uses:
 slow pointer
