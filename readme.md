@@ -208,7 +208,7 @@ for(int right = 0; right < s.length(); right++) {
 System.out.println(max);
 ```
 
-# 🔥 Stack Pattern
+# Stack Pattern
 ## 📌 Use case
 Stack pattern is used for problems that require LIFO (Last-In, First-Out) behavior or nested structure validation.
 
