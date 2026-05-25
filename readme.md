@@ -114,7 +114,7 @@ It is based on using two pointers (`left` and `right`) to traverse an array or s
 
 ---
 
-## 🎯 All use cases
+## All use cases
 - Reverse array / string
 - Palindrome check
 - Remove duplicates (sorted array)
