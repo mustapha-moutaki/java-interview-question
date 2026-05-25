@@ -212,7 +212,7 @@ System.out.println(max);
 ## Use case
 Stack pattern is used for problems that require LIFO (Last-In, First-Out) behavior or nested structure validation.
 
-## 🎯 Common Use Cases
+## Common Use Cases
 1. **Parentheses Validation**: Checking balanced parentheses `()`, `{}`, `[]`.
 2. **Expression Evaluation**: Evaluating postfix expressions or infix to postfix conversion.
 3. **Next Greater Element**: Finding the next greater element for each element in an array.
