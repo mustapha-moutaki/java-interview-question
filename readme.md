@@ -255,7 +255,7 @@ Input: "()[]{}"
 Output: true
 ```
 
-## 💡 Solution
+## Solution
 ```java
 public boolean isValid(String s) {
 
