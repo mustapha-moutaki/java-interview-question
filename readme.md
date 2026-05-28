@@ -416,7 +416,7 @@ public int[] nextGreater(int[] nums) {
 
 ---
 
-# 🎯 Quick Tips for Stack Pattern
+# Quick Tips for Stack Pattern
 
 1. **Stack is LIFO**: Use it when you need to reverse something or process nested structures.
 2. **Monotonic Stack**: If you need increasing/decreasing order, use a monotonic stack.
