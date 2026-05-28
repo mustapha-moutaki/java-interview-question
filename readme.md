@@ -289,9 +289,9 @@ public boolean isValid(String s) {
 
 ---
 
-# 💡 Next Greater Element Example
+# Next Greater Element Example
 
-## 🎯 Problem
+## Problem
 Find the next greater element for each element in an array.
 
 ### Example:
