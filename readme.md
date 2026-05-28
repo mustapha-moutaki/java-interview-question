@@ -374,7 +374,7 @@ public int[] previousSmaller(int[] nums) {
 
 ---
 
-# 💡 Monotonic Stack (Decreasing) Example
+# Monotonic Stack (Decreasing) Example
 
 ## 🎯 Problem
 Find the next greater element for each element in an array.
