@@ -306,7 +306,7 @@ Output: [5, 25, 25, -1]
 - For 2, next greater is 25
 - For 25, no greater element → -1
 
-## 💡 Solution
+## Solution
 ```java
 public int[] nextGreaterElement(int[] nums) {
 
