@@ -350,7 +350,7 @@ Output: [-1, 4, -1, 2, 2]
 - For 10 → 2
 - For 8 → 2
 
-## 💡 Solution
+## Solution
 ```java
 public int[] previousSmaller(int[] nums) {
 
