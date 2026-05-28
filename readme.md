@@ -579,7 +579,6 @@ while (nums[right] < target) {
 // 2. Binary search in this range
 return binarySearch(nums, target, left, right);
 ```
-
 ## When to Use
 - Array is **sorted**
 - Need O(log n) search time
