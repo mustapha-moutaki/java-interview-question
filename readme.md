@@ -392,7 +392,7 @@ Output: [5, 10, 10, -1, -1]
 - For 10 → -1
 - For 8 → -1
 
-## 💡 Solution
+## Solution
 ```java
 public int[] nextGreater(int[] nums) {
 
