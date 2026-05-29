@@ -507,6 +507,7 @@ class Dog extends Animal{
     }
 }
 ```
+
 5. What is composition?
 ```text
 is a has-a relationShip between two classes, meaninng one class is a part of another class and can be reused in other classes.
