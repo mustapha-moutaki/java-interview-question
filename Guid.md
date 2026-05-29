@@ -566,6 +566,7 @@ class PersonAddress{
     Address address;
 }
 ```
+
 9. What is tight coupling?
 
 ```text
