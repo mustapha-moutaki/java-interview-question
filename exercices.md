@@ -51,7 +51,7 @@ public static int[] twoSum(int[] nums, int target) {
 ``` java
  import java.util.*;
 
-public class Solution { // Define the Solution class
+public class Solution {
 
     public static void main(String[] args) { // Main method: program starts here
         String printhises = "{[()]}"; // Input string of brackets
