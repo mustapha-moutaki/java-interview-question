@@ -526,6 +526,7 @@ class car{
     }
 }
 ```
+
 6. Composition vs inheritance?
 ```text
 composition: is a has-a relationShip between two classes, meaninng one class can't live independenlty from the other class.
