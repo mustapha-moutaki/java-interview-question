@@ -91,7 +91,6 @@ input: () [] {}
 output: true
 
 input: (] -> false
-
 ```
 
 # Anagram like "listen" and "silent"
