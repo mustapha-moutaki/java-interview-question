@@ -610,6 +610,7 @@ class UserController{
 ```text
 solid principle are 5 principle that help us to write a good maintable and scalable oriented object code.
 ```
+
 12. Explain Single Responsibility Principle.
 ```text
 Single responsability principle: is one method can have only one duty.
