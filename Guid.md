@@ -631,6 +631,7 @@ linkov substitution principle: the child parent class shoud be able to replace w
 interface segregation principle: the class shoudnot be forced to implement methods it doesn't need or use.
 ```
 
+
 16. Explain Dependency Inversion Principle.
 ```text
 the high level class should not depend on the low level class, both should depend on abstraction.
