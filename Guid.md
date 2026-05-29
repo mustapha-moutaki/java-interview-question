@@ -635,6 +635,7 @@ interface segregation principle: the class shoudnot be forced to implement metho
 ```text
 the high level class should not depend on the low level class, both should depend on abstraction.
 ```
+
 17. What is dependency injection?
 ```text
 dependency injection is a design pattern that is used to provide the dependencies of a class to it.
