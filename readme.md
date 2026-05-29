@@ -88,7 +88,6 @@ CAS:
 | **Memory Overhead** | Lower                                            | Slightly higher (due to next/prev)    |
 | **Use Case**        | Unordered key-value storage                      | Ordered caches, history, FIFO         |
 
-
 # collections in java:
 - List
 - Set
