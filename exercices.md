@@ -49,7 +49,7 @@ public static int[] twoSum(int[] nums, int target) {
 
 # Valid Parentheses
 ``` java
- import java.util.*; // Import utility classes like Stack
+ import java.util.*;
 
 public class Solution { // Define the Solution class
 
