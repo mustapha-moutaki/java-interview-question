@@ -620,6 +620,7 @@ Single responsability principle: is one method can have only one duty.
 ```text
 Open close principle: the class shoud be able for extend but closed for modification.
 ```
+
 14. Explain Liskov Substitution Principle.
 ```text
 linkov substitution principle: the child parent class shoud be able to replace wihtout breaking the code.
