@@ -590,6 +590,7 @@ class UserController{
 ```text
 loose coupling is a relationShip between two classes that are independent on each other
 ```
+
 ```java
 // Exampple:
 class Database{
