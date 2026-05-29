@@ -625,6 +625,7 @@ Open close principle: the class shoud be able for extend but closed for modifica
 ```text
 linkov substitution principle: the child parent class shoud be able to replace wihtout breaking the code.
 ```
+
 15. Explain Interface Segregation Principle.
 ```text
 interface segregation principle: the class shoudnot be forced to implement methods it doesn't need or use.
