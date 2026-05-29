@@ -615,6 +615,7 @@ solid principle are 5 principle that help us to write a good maintable and scala
 ```text
 Single responsability principle: is one method can have only one duty.
 ```
+
 13. Explain Open Closed Principle.
 ```text
 Open close principle: the class shoud be able for extend but closed for modification.
