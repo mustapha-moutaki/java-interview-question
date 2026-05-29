@@ -532,6 +532,7 @@ class car{
 composition: is a has-a relationShip between two classes, meaninng one class can't live independenlty from the other class.
 meanwhile inheritance : it's a class created dependently from another class.
 ```
+
 7. What is aggregation?
 ```text
 aggregation is a weak relationShip between two classes, meaninng class can live independently from the other class
