@@ -91,7 +91,12 @@ input: () [] {}
 output: true
 
 input: (] -> false
+
+Note: we can use while loop instead of for loop and check if the stack is empty inside the while loop "while(!stack.isEmpty())"
+and also we can do it like this and check the pop value;
+stack.pop() != c // c it's item in the while loop
 ```
+
 
 # Anagram like "listen" and "silent"
 ``` java
