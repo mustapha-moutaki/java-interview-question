@@ -605,6 +605,7 @@ class UserController{
     }
 }
 ```
+
 11. What are SOLID principles?
 ```text
 solid principle are 5 principle that help us to write a good maintable and scalable oriented object code.
