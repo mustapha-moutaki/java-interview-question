@@ -89,7 +89,6 @@ CAS:
 | **Use Case**        | Unordered key-value storage                      | Ordered caches, history, FIFO         |
 
 
-
 # collections in java:
 - List
 - Set
