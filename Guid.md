@@ -738,6 +738,7 @@ colliision is when two objects keys generate same hashCode so they are stored in
 load factor: is value that determine when hashmap resize. by default it's 0.75
 and resizing  when size > capacity * load factor
 ```
+
 13. What is hashing?
 ```text
 hashing is a proccess to convert a key into hash code.
