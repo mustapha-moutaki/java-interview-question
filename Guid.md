@@ -755,10 +755,30 @@ comparator is an interface that is used to compare two objects.
 ```
 
 16. Difference between fail-fast and fail-safe iterator?
+```text
+fail-fast: it's an iterator that throw exception when the collection is modified during iteration.
+fail-safe: it's an iterator that doesn't throw exception when the collection is modified during iteration.
+```
 17. What is ConcurrentHashMap?
+```text
+concurrentHashMap: it's a thread-safe hashmap.
+```
+
 18. Time complexity of HashMap operations?
+```text
+time complexity of hashmap operations is O(1).
+```
+
 19. Time complexity of ArrayList insertion?
+```text
+time complexity of arraylist insertion is O(1).
+```
+
 20. Time complexity of LinkedList insertion?
+```text
+time complexity of linkedlist insertion is O(1).
+```
+
 21. What is immutable collection?
 22. What is Collections utility class?
 23. Difference between Arrays.asList and List.of?
