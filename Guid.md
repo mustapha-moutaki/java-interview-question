@@ -650,12 +650,11 @@ dependency injection is a design pattern that is used to provide the dependencie
 ```text
 constructor injection is more recommended because it's immutable and easy for test.
 ```
+
 20. What is inversion of control?
 ```text
 inversion of control is a design pattern that allow the framework to control the flow of the application not the developer.
 ```
-
-
 ---
 
 # 3. Java Collections
