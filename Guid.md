@@ -753,6 +753,7 @@ comparable is an interface that is used to compare two objects.
 ```text
 comparator is an interface that is used to compare two objects.
 ```
+
 16. Difference between fail-fast and fail-safe iterator?
 17. What is ConcurrentHashMap?
 18. Time complexity of HashMap operations?
