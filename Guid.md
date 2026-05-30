@@ -685,6 +685,7 @@ set: it store data based on the natural order and it rejects duplicated values.
 arraylist: it's fast for getting data and slow for insetion and it's not thread safe.
 linnkedList: it's slow for getting data and fast for insertion and it's not thread safe.
 ```
+
 4. Difference between HashMap and Hashtable?
 
 ```text
