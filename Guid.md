@@ -748,6 +748,7 @@ hashing is a proccess to convert a key into hash code.
 ```text
 comparable is an interface that is used to compare two objects.
 ```
+
 15. What is Comparator?
 ```text
 comparator is an interface that is used to compare two objects.
