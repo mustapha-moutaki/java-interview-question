@@ -679,6 +679,7 @@ and implementes:
 list: it store data based on the insertion order and it allows duplicated values.
 set: it store data based on the natural order and it rejects duplicated values.
 ```
+
 3. Difference between ArrayList and LinkedList?
 
 ```text
