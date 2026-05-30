@@ -722,6 +722,7 @@ queue interface: it's a queue that stores elements based on FIFO order.
 double ended queue
 it allow to insert and delete elements from both ends
 ```
+
 10. How HashMap works internally?
 ```text
 Hashmap it collection of key-value pairs, internally it use array of linked list and each place called bucket. by default hashmap has 15 buckets and load factor is 0.75 and it' snot thread safe and it's fast for getting data. it allow only one null key but it allows multiple null values
