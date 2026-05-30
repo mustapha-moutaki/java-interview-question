@@ -711,6 +711,7 @@ treeset: it's slow for getting data and fast for insertion and it's not thread s
 priorityqueue: it's a queue that stores elements based on priority order.
 the smallest/highest priority element is processed first.
 ```
+
 8. What is Queue interface?
 ```text
 queue interface: it's a queue that stores elements based on FIFO order.
