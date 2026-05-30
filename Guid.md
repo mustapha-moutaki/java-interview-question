@@ -705,6 +705,7 @@ treemap: it's slow for getting data and fast for insertion and it's not thread s
 hashset: it's fast for getting data and slow for insetion and it's not thread safe.
 treeset: it's slow for getting data and fast for insertion and it's not thread safe, and it's ordered. it use red-black tree  internally.
 ```
+
 7. What is PriorityQueue?
 ```text
 priorityqueue: it's a queue that stores elements based on priority order.
