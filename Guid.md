@@ -655,7 +655,6 @@ constructor injection is more recommended because it's immutable and easy for te
 ```text
 inversion of control is a design pattern that allow the framework to control the flow of the application not the developer.
 ```
----
 
 # 3. Java Collections
 
