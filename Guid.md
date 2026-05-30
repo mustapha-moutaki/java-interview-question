@@ -743,6 +743,7 @@ and resizing  when size > capacity * load factor
 ```text
 hashing is a proccess to convert a key into hash code.
 ```
+
 14. What is Comparable?
 ```text
 comparable is an interface that is used to compare two objects.
