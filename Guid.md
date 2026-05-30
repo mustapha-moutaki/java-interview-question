@@ -732,6 +732,7 @@ Hashmap it collection of key-value pairs, internally it use array of linked list
 ```text
 colliision is when two objects keys generate same hashCode so they are stored in the same bucket.
 ```
+
 12. What is load factor?
 ```text
 load factor: is value that determine when hashmap resize. by default it's 0.75
