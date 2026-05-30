@@ -716,6 +716,7 @@ the smallest/highest priority element is processed first.
 ```text
 queue interface: it's a queue that stores elements based on FIFO order.
 ```
+
 9. What is Deque?
 ```text
 double ended queue
