@@ -699,6 +699,7 @@ hashtable: it's fast for getting data and slow for insertion and it's thread saf
 hashmap : it's fast for getting data and slow for insetion and it's not thread safe.
 treemap: it's slow for getting data and fast for insertion and it's not thread safe, and it's ordered. it use red-black tree  internally.
 ```
+
 6. Difference between HashSet and TreeSet?
 ```text
 hashset: it's fast for getting data and slow for insetion and it's not thread safe.
