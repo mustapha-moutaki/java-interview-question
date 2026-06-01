@@ -796,9 +796,9 @@ collections utility class: it's a utility class that provides methods to work wi
 ```
 
 24. What is Iterator?
-```text
+<!-- ```text
 iterator: it's an interface that is used to iterate over a collection.
-```
+``` -->
 
 25. What is ListIterator?
 
