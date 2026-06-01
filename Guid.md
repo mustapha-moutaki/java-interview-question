@@ -780,9 +780,26 @@ time complexity of linkedlist insertion is O(1).
 ```
 
 21. What is immutable collection?
+```text
+immutable collection: is a collection that cannot be modified.
+```
+
 22. What is Collections utility class?
+```text
+collections utility class: it's a utility class that provides methods to work with collections.
+```
+
 23. Difference between Arrays.asList and List.of?
+```text
+- Arrays.asList: it's a method that returns a list from an array.
+- List.of: it's a method that returns a list from a varargs.
+```
+
 24. What is Iterator?
+```text
+iterator: it's an interface that is used to iterate over a collection.
+```
+
 25. What is ListIterator?
 
 ---
