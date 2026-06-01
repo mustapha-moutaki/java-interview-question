@@ -150,3 +150,24 @@ while(right < s.length()){
 }
 
 ```
+
+# # Revers a Number(digit extraction pattern):
+``` java
+public static void main(String[] args) {
+        int n = 123456789;
+        int reversed = 0;
+
+        while (n != 0) {
+            int digit = n % 10;
+            reversed = reversed * 10 + digit;
+            n = n / 10;
+        }
+
+        return n == reversed;
+    }
+
+```
+```text
+the fastest way to reverse a number is to use the formula: reversed = reversed * 10 + digit;
+also the two pointer approach is the best way to reverse and check palindrom but it's not the fastest way
+```
