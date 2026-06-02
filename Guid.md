@@ -818,6 +818,19 @@ process: it's a heavy weight process that can run independently of other process
 thread: it's a lightweight process that can run independently of other threads.
 ```
 3. How to create thread in Java?
+```java
+public class ThreadDemo extends Thread {
+    @Override
+    public void run() {
+        System.out.println("Thread is running");
+    }
+    public static void main(String[] args) {
+        ThreadDemo thread = new ThreadDemo();
+        thread.start();
+    }
+}   
+
+```
 4. Runnable vs Thread?
 5. What is synchronization?
 6. What is race condition?
