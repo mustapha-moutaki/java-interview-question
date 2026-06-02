@@ -819,6 +819,7 @@ thread: it's a lightweight process that can run independently of other threads.
 ```
 3. How to create thread in Java?
 ```java
+// using thread class
 public class ThreadDemo extends Thread {
     @Override
     public void run() {
@@ -826,6 +827,18 @@ public class ThreadDemo extends Thread {
     }
     public static void main(String[] args) {
         ThreadDemo thread = new ThreadDemo();
+        thread.start();
+    }
+}   
+// using runnable interface
+public class RunnableDemo implements Runnable {
+    @Override
+    public void run() {
+        System.out.println("Thread is running");
+    }
+    public static void main(String[] args) {
+        RunnableDemo runnable = new RunnableDemo();
+        Thread thread = new Thread(runnable);
         thread.start();
     }
 }   
