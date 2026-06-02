@@ -813,6 +813,10 @@ list iterator: it's an interface that is used to iterate over a collection and i
 thread: it's a lightweight process that can run independently of other threads.
 ```
 2. Difference between process and thread?
+```text
+process: it's a heavy weight process that can run independently of other processes.
+thread: it's a lightweight process that can run independently of other threads.
+```
 3. How to create thread in Java?
 4. Runnable vs Thread?
 5. What is synchronization?
