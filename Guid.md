@@ -853,6 +853,18 @@ thread: it's a class that is used to create a thread.
 ```text
 synchronization: it's a mechanism that is used to protect shared resources from being accessed by multiple threads at the same time.
 ```
+6. What is race condition?
+```text
+race condition: it's a condition that occurs when multiple threads are accessing shared resources at the same time.
+```
+7. What is deadlock?
+```text
+deadlock: it's a condition that occurs when multiple threads are waiting for each other to release the resources that they need to access.
+```
+8. What is starvation?
+```text
+starvation: it's a condition that occurs when a thread is not able to access the resources that it needs to access.
+```
 9. What is livelock?
 10. What is thread safety?
 11. What is ExecutorService?
