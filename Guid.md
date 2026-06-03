@@ -849,6 +849,10 @@ public class RunnableDemo implements Runnable {
 runnable: it's an interface that is used to create a thread.
 thread: it's a class that is used to create a thread.
 ```
+5. What is synchronization?
+```text
+synchronization: it's a mechanism that is used to protect shared resources from being accessed by multiple threads at the same time.
+```
 9. What is livelock?
 10. What is thread safety?
 11. What is ExecutorService?
