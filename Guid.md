@@ -892,10 +892,26 @@ starvation: it's a condition that occurs when a thread is not able to access the
 Exception: an event that disrupts the normal flow of the program.
 ```
 2. Difference between error and exception?
+```text
+Error: is a serious problem that occurs during the execution of a program and it cannot be recovered from. Example: OutOfMemoryError, StackOverflowError
+Exception: is a problem that occurs during the execution of a program and it can be recovered from. Example: NullPointerException, ArithmeticException
+```
 3. Checked vs unchecked exceptions?
+```text
+Checked exceptions: are exceptions that are checked at compile time. Example: IOException, SQLException
+Unchecked exceptions: are exceptions that are not checked at compile time. Example: NullPointerException, ArithmeticException
+```
 4. What is try-catch block?
+```text
+try-catch block: is a block of code that is used to handle exceptions.
+```
 5. What is finally block?
+```text
+finally block: is a block of code that is executed after the try-catch block.
+```
 6. Can finally not execute?
+```text
+yes, finally block can not execute if the JVM is terminated abruptly.
 7. What is throw keyword?
 8. What is throws keyword?
 9. Custom exceptions?
