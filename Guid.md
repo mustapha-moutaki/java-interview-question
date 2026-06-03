@@ -888,6 +888,9 @@ starvation: it's a condition that occurs when a thread is not able to access the
 # 5. Exception Handling
 
 1. What is exception?
+```text
+Exception: an event that disrupts the normal flow of the program.
+```
 2. Difference between error and exception?
 3. Checked vs unchecked exceptions?
 4. What is try-catch block?
