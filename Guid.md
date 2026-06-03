@@ -845,10 +845,10 @@ public class RunnableDemo implements Runnable {
 
 ```
 4. Runnable vs Thread?
-5. What is synchronization?
-6. What is race condition?
-7. What is deadlock?
-8. What is starvation?
+```text
+runnable: it's an interface that is used to create a thread.
+thread: it's a class that is used to create a thread.
+```
 9. What is livelock?
 10. What is thread safety?
 11. What is ExecutorService?
