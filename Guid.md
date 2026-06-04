@@ -918,6 +918,9 @@ yes, finally block can not execute if the JVM is terminated abruptly.
 throw keyword: is used to throw an exception.
 ```
 8. What is throws keyword?
+```text
+throws keyword: is used to declare that a method can throw an exception.
+```
 9. Custom exceptions?
 10. What is exception propagation?
 11. Multiple catch blocks?
