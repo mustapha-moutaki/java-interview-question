@@ -933,8 +933,17 @@ class MyException extends Exception {
 }
 ```
 10. What is exception propagation?
+```text
+exception propagation: is the process of throwing an exception from one method to another.
+```
 11. Multiple catch blocks?
+```text
+multiple catch blocks: are used to handle different types of exceptions.
+```
 12. What is try-with-resources?
+```text
+try-with-resources: is a block of code that is used to handle exceptions and it's automatically closes the resources.
+```
 13. What is stack trace?
 14. Best practices for exception handling?
 15. Why avoid empty catch blocks?
