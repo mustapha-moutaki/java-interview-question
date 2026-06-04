@@ -912,7 +912,11 @@ finally block: is a block of code that is executed after the try-catch block.
 6. Can finally not execute?
 ```text
 yes, finally block can not execute if the JVM is terminated abruptly.
+```
 7. What is throw keyword?
+```text
+throw keyword: is used to throw an exception.
+```
 8. What is throws keyword?
 9. Custom exceptions?
 10. What is exception propagation?
