@@ -922,6 +922,16 @@ throw keyword: is used to throw an exception.
 throws keyword: is used to declare that a method can throw an exception.
 ```
 9. Custom exceptions?
+```text
+custom exceptions: are exceptions that are created by the user.
+```
+```java
+class MyException extends Exception {
+    public MyException(String message) {
+        super(message);
+    }
+}
+```
 10. What is exception propagation?
 11. Multiple catch blocks?
 12. What is try-with-resources?
