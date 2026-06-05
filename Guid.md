@@ -960,6 +960,7 @@ classloader: is a component of JVM that is responsible for loading classes into 
 3. Types of classloaders?
 ```text
 //  those are not important in interviews just for knowladge
+```
 types of classloaders are:
 1. bootstrap classloader
 2. extension classloader
