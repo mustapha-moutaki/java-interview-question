@@ -950,6 +950,11 @@ try-with-resources: is a block of code that is used to handle exceptions and it'
 stack trace: is a list of method calls that are made in a program.
 ```
 14. Best practices for exception handling?
+```text
+- use specific exceptions
+- don't use generic exceptions
+- 
+```
 15. Why avoid empty catch blocks?
 
 ---
