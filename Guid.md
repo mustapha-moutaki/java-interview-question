@@ -953,7 +953,7 @@ stack trace: is a list of method calls that are made in a program.
 ```text
 - use specific exceptions
 - don't use generic exceptions
-- 
+- use GlobalExceptionHandler
 ```
 15. Why avoid empty catch blocks?
 
