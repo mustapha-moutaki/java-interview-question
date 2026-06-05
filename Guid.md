@@ -954,7 +954,17 @@ try-with-resources: is a block of code that is used to handle exceptions and it'
 
 1. Explain JVM architecture.
 2. What is classloader?
+```text
+classloader: is a component of JVM that is responsible for loading classes into memory.
+```
 3. Types of classloaders?
+```text
+//  those are not important in interviews just for knowladge
+types of classloaders are:
+1. bootstrap classloader
+2. extension classloader
+3. application classloader
+```
 4. What is heap memory?
 5. What is stack memory?
 6. What is metaspace?
